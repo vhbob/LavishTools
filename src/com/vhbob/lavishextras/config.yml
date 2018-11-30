@@ -1,0 +1,11 @@
+Chopper:
+  Name: '&b&LChopper'
+  Lore:
+  - '&7This will chop down a whole tree!'
+Harvester:
+  Name: '&b&LHarvester'
+  Lore:
+  - '&7This will harvest a crop and automatically plant the seed!'
+Messages:
+  Condense_Success: '&a&lChest has been compressed!'
+

@@ -1,0 +1,15 @@
+main: com.vhbob.lavishextras.Main
+name: LavishExtras
+version: 1.1
+author: vhbob
+commands:
+  GiveChopper:
+    permission: le.give.chopper
+    description: Give a specified player a chopper!
+  GiveHarvester:
+    permission: le.give.harvester
+    description: Give a specified player a harvester
+  CondenseChest:
+    permission: le.condense
+    description: Condense items in a chest
+depend: [ASkyBlock]
